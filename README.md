@@ -318,7 +318,7 @@ The application is deployed using Vercel.
 Production URL:
 
 ```text
-YOUR_VERCEL_URL
+[YOUR_VERCEL_URL](https://day-10-3kjo-5njor1ew3-aditijodh28s-projects.vercel.app/)
 ```
 
 ## Future Improvements
