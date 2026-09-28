@@ -228,7 +228,7 @@ The database connection string must not be committed to GitHub.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/aditijodh28/day-10
 ```
 
 Move into the frontend:
