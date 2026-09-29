@@ -213,16 +213,6 @@ GET /api/complaints
 POST /api/complaints
 ```
 
-## Environment Variables
-
-Create `.env.local`:
-
-```env
-DATABASE_URL=your_postgresql_connection_string
-```
-
-The database connection string must not be committed to GitHub.
-
 ## Installation
 
 Clone the repository:
